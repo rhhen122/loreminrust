@@ -14,6 +14,7 @@ fn main() {
 
     clearscreen::clear().unwrap();
 
+    // Messy ass code I HATE THIS.
     loop {
         println!("{} {}",
             "lorem- 3 ---        | Ipsum".purple(),
